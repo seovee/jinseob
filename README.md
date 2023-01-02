@@ -1,4 +1,4 @@
-# 열심히 성장중인 jinseob의 github입니다.
+# 성장 중인 jinseob의 github
 
 - 성장중.....
 - 👋 Hi, I’m @jinseob102
