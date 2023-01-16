@@ -1,15 +1,8 @@
-# 성장 중인 jinseob의 github
+# 성장 중인 김진섭 GitHub입니다.
+> 나의 성장기록
 
-- 성장중.....
-- 👋 Hi, I’m @jinseob102
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### 💻 키는 멈췄지만, 계속 성장하는 중..
+☕️ 좋아하는 것은 카페에서 수다떠는 것!
+🏃🏻‍♂️ 운동도 좋아합니다.
 
 
-
-<!---
-jinseob102/jinseob102 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
