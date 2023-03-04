@@ -5,11 +5,13 @@
   	<img src="https://img.shields.io/badge/JavaScript-007396?style=flat&logo=Javascript&logoColor=white" />
 </div>
 
-### 키는 멈췄지만, 계속 성장하는 중..
+### 계속 성장하는 중..
 <br>
-☕️ 좋아하는 것은 카페에서 수다떠는 것!<br>
+☕️ 좋아하는 것
+ - 운동하기<br>
+ - 카페가기<br>
+ - 코딩하기^_^
 
-🏃🏻‍♂️ 운동도 좋아합니다.
 
 
 
