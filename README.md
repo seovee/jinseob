@@ -5,14 +5,14 @@
   	<img src="https://img.shields.io/badge/JavaScript-007396?style=flat&logo=Javascript&logoColor=white" />
 </div>
 
-### 계속 성장하는 중..
+### 성장하는 중..
 <br>
 
 **좋아하는 것**  
 
-🏃🏻‍♂️ 운동하기<br>
-☕ 카페가기<br>
-🧑🏻‍💻 코딩하기^_^
+🏃🏻‍♂️ 운동<br>
+☕ 카페<br>
+🧑🏻‍💻 코딩^_^
 
 
 
