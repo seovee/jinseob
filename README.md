@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=150&section=header&text=jinseob's%20Github%20🍕&fontSize=50&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=120&section=header&text=jinseob's%20Github%20🍕&fontSize=50&animation=twinkling)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seovee&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
