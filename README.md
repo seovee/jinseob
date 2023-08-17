@@ -9,13 +9,5 @@
   	<img src="https://img.shields.io/badge/JavaScript-007396?style=flat&logo=Javascript&logoColor=white" />
 </div>
 
-**좋아하는 것**  
-
-🏃🏻‍♂️ 운동<br>
-☕ 카페<br>
-🧑🏻‍💻 코딩^_^
-
-
-
 
 
