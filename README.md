@@ -1,3 +1,5 @@
+<div align= "center">
+
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=120&section=header&text=jinseob's%20Github%20🍕&fontSize=50&animation=twinkling)
 
 
@@ -28,3 +30,4 @@
 
 
 
+</div>
