@@ -14,6 +14,8 @@
 </div>
 <div>
 	<img src="https://img.shields.io/badge/styled_components-DB7093?style=flat&logo=styledcomponents&logoColor=white" />
+	<img src="https://img.shields.io/badge/react query-FF4154?style=flat&logo=reactquery&logoColor=white" />
+	<img src="https://img.shields.io/badge/react router-CA4245?style=flat&logo=reactrouter&logoColor=white" />
  	<img src="https://img.shields.io/badge/macOS-000000?style=flat&logo=Apple&logoColor=white" />
 
 </div>
