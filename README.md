@@ -9,14 +9,19 @@
   	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=Javascript&logoColor=white" />
   	<img src="https://img.shields.io/badge/ReactJS-61DAFB?style=flat&logo=React&logoColor=white" />
    	<img src="https://img.shields.io/badge/NextJS-0A0A2A?style=flat&logo=Next.js&logoColor=white" />
-	<img src="https://img.shields.io/badge/gatsby-663399?style=flat&logo=gatsby&logoColor=white" />
+	<img src="https://img.shields.io/badge/Gatsby-663399?style=flat&logo=gatsby&logoColor=white" />
 
 </div>
 <div>
-	<img src="https://img.shields.io/badge/styled_components-DB7093?style=flat&logo=styledcomponents&logoColor=white" />
-	<img src="https://img.shields.io/badge/react query-FF4154?style=flat&logo=reactquery&logoColor=white" />
-	<img src="https://img.shields.io/badge/react router-CA4245?style=flat&logo=reactrouter&logoColor=white" />
+	<img src="https://img.shields.io/badge/Styled Components-DB7093?style=flat&logo=styledcomponents&logoColor=white" />
+	<img src="https://img.shields.io/badge/React Query-FF4154?style=flat&logo=reactquery&logoColor=white" />
+	<img src="https://img.shields.io/badge/React Router-CA4245?style=flat&logo=reactrouter&logoColor=white" />
  	<img src="https://img.shields.io/badge/macOS-000000?style=flat&logo=Apple&logoColor=white" />
+ 	<img src="https://img.shields.io/badge/React Hook Form-EC5990?style=flat&logo=reacthookform&logoColor=white" />
+   	<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" />
+   	<img src="https://img.shields.io/badge/Recoil-3578E5?style=flat&logo=recoil&logoColor=white" />
+
+
 
 </div>
 
