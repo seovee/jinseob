@@ -16,13 +16,14 @@
 	<img src="https://img.shields.io/badge/Styled Components-DB7093?style=flat&logo=styledcomponents&logoColor=white" />
 	<img src="https://img.shields.io/badge/React Query-FF4154?style=flat&logo=reactquery&logoColor=white" />
 	<img src="https://img.shields.io/badge/React Router-CA4245?style=flat&logo=reactrouter&logoColor=white" />
- 	<img src="https://img.shields.io/badge/macOS-000000?style=flat&logo=Apple&logoColor=white" />
  	<img src="https://img.shields.io/badge/React Hook Form-EC5990?style=flat&logo=reacthookform&logoColor=white" />
-   	<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" />
    	<img src="https://img.shields.io/badge/Recoil-3578E5?style=flat&logo=recoil&logoColor=white" />
-
-
-
+	<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" />
+</div>
+<div>
+	<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" />
+       	<img src="https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white" />
+	<img src="https://img.shields.io/badge/macOS-000000?style=flat&logo=Apple&logoColor=white" />
 </div>
 
 <br>
