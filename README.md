@@ -21,6 +21,7 @@
 	<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" />
 </div>
 <div>
+	<img src="https://img.shields.io/badge/TailwindCss-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
 	<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" />
        	<img src="https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white" />
 	<img src="https://img.shields.io/badge/macOS-000000?style=flat&logo=Apple&logoColor=white" />
