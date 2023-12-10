@@ -10,7 +10,7 @@
   	<img src="https://img.shields.io/badge/ReactJS-61DAFB?style=flat&logo=React&logoColor=white" />
    	<img src="https://img.shields.io/badge/NextJS-0A0A2A?style=flat&logo=Next.js&logoColor=white" />
 	<img src="https://img.shields.io/badge/Gatsby-663399?style=flat&logo=gatsby&logoColor=white" />
-
+ 	<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" />
 </div>
 <div>
 	<img src="https://img.shields.io/badge/Styled Components-DB7093?style=flat&logo=styledcomponents&logoColor=white" />
@@ -18,7 +18,7 @@
 	<img src="https://img.shields.io/badge/React Router-CA4245?style=flat&logo=reactrouter&logoColor=white" />
  	<img src="https://img.shields.io/badge/React Hook Form-EC5990?style=flat&logo=reacthookform&logoColor=white" />
    	<img src="https://img.shields.io/badge/Recoil-3578E5?style=flat&logo=recoil&logoColor=white" />
-	<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" />
+	<img src="https://img.shields.io/badge/Redux-3764ABC?style=flat&logo=redux&logoColor=white" />
 </div>
 <div>
 	<img src="https://img.shields.io/badge/TailwindCss-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
