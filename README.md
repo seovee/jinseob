@@ -42,10 +42,18 @@
 <br>
 <br>
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seovee&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
-
-
+<p align="center">
+<table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=seovee&show_icons=true&theme=default&hide_border=true&rank_icon=github"/>
+      </td>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seovee&layout=donut&theme=default&hide_border=true"/>
+      </td>
+    </tr>
+  </table>
+</p>
 
 
 </div>
